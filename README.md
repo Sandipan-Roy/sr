@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Assignment Portfolio
 Welcome to the repository showcasing my journey through diverse data science projects, each focusing on unique problem areas and employing various tools and frameworks. From predictive analytics to exploratory data analysis, these projects harness the power of Python and different frameworks to tackle a range of challenges, aiming to derive actionable insights and solutions.
 
 Using Python, I've explored methodologies such as statistical analysis and machine learning algorithms to address complex data problems.
