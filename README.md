@@ -18,7 +18,7 @@ This repository has been divided into two sections:
 - **1. AI-Platform-List:** The purpose is to prepare a list of AI tools or platforms that can perform AI actions across different input types — Text Generation, Image Creation, Audio and Music Generation & Code Generation.
 [Git Path: AI Platform List](https://github.com/Sandipan-Roy/sr/blob/Dev/AI-Platform-List/README.md)
 - **2. Basic_Python:** The purpose of this is to create a concise workbook covering variables, control flow, functions, and core data structures.
-[Git Path: Basic Path](https://github.com/Sandipan-Roy/sr/blob/Dev/Basic_Python/README.md)
+[Git Path: Basic Python](https://github.com/Sandipan-Roy/sr/blob/Dev/Basic_Python/README.md)
 - **3. Numpy_Pandas_Pyplot:** The purpose of this is to develop foundational skills in using NumPy, Pandas and Matplotlib, the essential libraries for data manipulation in Python.
 [Git Path: Numpy, Pandas and Matplotlib](https://github.com/Sandipan-Roy/sr/blob/Dev/Numpy_Pandas_Pyplot/README.md)
 - **4. Visualization:** The purpose of this is to develop foundational skills in using NumPy, Pandas, Matplotlib and Seaborn, the essential libraries for data manipulation in Python.
