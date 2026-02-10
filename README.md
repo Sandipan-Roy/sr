@@ -15,15 +15,15 @@ Each assignment leverages datasets sourced from platforms like Kaggle, enriching
 Explore the documentation, visualizations, and methodologies presented here to gain insights into the transformative potential of data science in solving real-world challenges.
 
 This repository has been divided into two sections:
-- **1. AI-Platform-List:** The purpose is to prepare a list of AI tools or platforms that can perform AI actions across different input types — Text Generation, Image Creation, Audio and Music Generation & Code Generation.
+- **AI-Platform-List:** The purpose is to prepare a list of AI tools or platforms that can perform AI actions across different input types — Text Generation, Image Creation, Audio and Music Generation & Code Generation.
 [Git Path: AI Platform List](https://github.com/Sandipan-Roy/sr/blob/Dev/AI-Platform-List/README.md)
-- **2. Basic_Python:** The purpose of this is to create a concise workbook covering variables, control flow, functions, and core data structures.
+- **Basic_Python:** The purpose of this is to create a concise workbook covering variables, control flow, functions, and core data structures.
 [Git Path: Basic Python](https://github.com/Sandipan-Roy/sr/blob/Dev/Basic_Python/README.md)
-- **3. Numpy_Pandas_Pyplot:** The purpose of this is to develop foundational skills in using NumPy, Pandas and Matplotlib, the essential libraries for data manipulation in Python.
+- **Numpy_Pandas_Pyplot:** The purpose of this is to develop foundational skills in using NumPy, Pandas and Matplotlib, the essential libraries for data manipulation in Python.
 [Git Path: Numpy, Pandas and Matplotlib](https://github.com/Sandipan-Roy/sr/blob/Dev/Numpy_Pandas_Pyplot/README.md)
-- **4. Visualization:** The purpose of this is to develop foundational skills in using NumPy, Pandas, Matplotlib and Seaborn, the essential libraries for data manipulation in Python.
+- **Visualization:** The purpose of this is to develop foundational skills in using NumPy, Pandas, Matplotlib and Seaborn, the essential libraries for data manipulation in Python.
 [Git Path: Visualization](https://github.com/Sandipan-Roy/sr/blob/Dev/Visualization/README.md)
-- **5. EDA:** EDA stands for Exploratory Data Analysis. The purpose of this is to develop skill for Data Analysis which is the first as well as the fundamental stepping stone in the field of Data Science.
+- **EDA:** EDA stands for Exploratory Data Analysis. The purpose of this is to develop skill for Data Analysis which is the first as well as the fundamental stepping stone in the field of Data Science.
 [Git Path: EDA](https://github.com/Sandipan-Roy/sr/blob/Dev/EDA/README.md)
 
 
