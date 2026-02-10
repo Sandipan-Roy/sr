@@ -1,0 +1,10 @@
+Copyright (c) 2026 Sandipan Roy. All rights reserved.
+
+This project is provided as a reference guideline for learning and informational purposes only.
+
+You may view and refer to this material, but you are not permitted to:
+- Copy, reproduce, or redistribute this project or its contents, in whole or in part.
+- Modify, adapt, or use this project or its code/content in other projects.
+- Use this project for commercial or organizational purposes without explicit written permission from the author.
+
+For permissions or inquiries, please contact me.sandipan86@gmail.com.

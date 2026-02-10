@@ -1,0 +1,2 @@
+# AI Tools in various domain
+The purpose of this excel is to prepare a list of AI tools or platforms that can perform AI actions across different input types — Text Generation, Image Creation, Audio and Music Generation & Code Generation.
