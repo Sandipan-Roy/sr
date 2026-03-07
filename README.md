@@ -25,6 +25,8 @@ This repository has been divided into two sections:
 [Git Path: Visualization](https://github.com/Sandipan-Roy/sr/blob/Dev/Visualization/README.md)
 - **EDA:** EDA stands for Exploratory Data Analysis. The purpose of this is to develop skill for Data Analysis which is the first as well as the fundamental stepping stone in the field of Data Science.
 [Git Path: EDA](https://github.com/Sandipan-Roy/sr/blob/Dev/EDA/README.md)
+- **ML:** Machine learning (ML) is a subset of artificial intelligence (AI) that develops algorithms enabling computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every rule.
+[Git Path: ML](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/README.md)
 
 
 ## Contributing
