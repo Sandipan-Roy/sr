@@ -10,4 +10,4 @@ The repository consists of:
 - **LR on excel:** Logistic Regression implementation over an excel file.
 [Git Path: Excel](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Logistic_Regression/Logistic%20Regression.xlsx)
 - **Logistic Regression:** Regression analysis on Classification of the type of dry beans. The purpose of the notebook is to identify different types of dry beans based on the given features.
-[Git Path: Insurance Charge Forecast by using Linear Regression](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Logistic_Regression/LogisticRegression_SandipanRoy_1_20260225.ipynb)
+[Git Path: Classification of the type of dry beans by using Logistic Regression](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Logistic_Regression/LogisticRegression_SandipanRoy_1_20260225.ipynb)
