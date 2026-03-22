@@ -10,4 +10,5 @@ The repository consists of:
 - **LR on excel:** Logistic Regression implementation over an excel file.
 [Git Path: Excel](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Logistic_Regression/Logistic%20Regression.xlsx)
 - **Logistic Regression:** Regression analysis on Classification of the type of dry beans. The purpose of the notebook is to identify different types of dry beans based on the given features. We've kept the dataset within [Git Path: Dry Beans Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Regression/Logistic_Regression/data/raw/Dry_Bean_Dataset.csv) and used it in our notebook from the same location. Apart from the above, we have created one .csv file and .pkl file during data wrangling which can be found inside [Git Path: Data-Output](https://github.com/Sandipan-Roy/sr/tree/Dev/ML/Regression/Logistic_Regression/data/output).
+
 [Git Path: Classification of the type of dry beans by using Logistic Regression](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Logistic_Regression/LogisticRegression_SandipanRoy_1_20260225.ipynb)
