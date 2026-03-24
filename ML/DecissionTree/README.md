@@ -3,7 +3,7 @@ A decision tree is a widely used, transparent supervised machine learning algori
 
 - **Entropy:** Entropy (**H**) measures the amount of uncertainty or randomness in a dataset.
 
-                $$\sum_{i=1}^{c} p_i*log_2(p_i) $$
+                 $$ - \sum_{i=1}^{c} p_i*\log_{2}(p_i) $$
 
             - **S:** The current dataset.
             - **c:** The number of classes.
