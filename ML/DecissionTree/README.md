@@ -2,8 +2,10 @@
 A decision tree is a widely used, transparent supervised machine learning algorithm that uses a flowchart-like structure to make predictions for both classification (predicting categories) and regression (predicting numerical values) tasks. The algorithm uses a top-down, greedy approach called recursive partitioning to build the tree. It selects the best feature to split data using metrics like Information Gain or Gini Index. This process repeats for sub-nodes until a stopping condition is reached (e.g., maximum depth), at which point leaf nodes are assigned predicted values.The mathematical core of a Decision Tree lies in Information Theory, specifically in how it measures "purity" to decide where to split data. The goal is to start with a mixed (impure) set of data and split it into subsets that are as pure as possible.To build a tree, the algorithm must first quantify the disorder in a node. There are two primary ways to do this:
 
 - **Entropy:** Entropy (**H**) measures the amount of uncertainty or randomness in a dataset.
+Here is the entropy formula:
 
-                 $$ - \sum_{i=1}^{c} p_i*\log_{2}(p_i) $$
+$$ - \sum_{i=1}^{c} p_i*\log_{2}(p_i) $$
+
 
             - **S:** The current dataset.
             - **c:** The number of classes.
