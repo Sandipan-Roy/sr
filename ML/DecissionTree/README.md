@@ -16,8 +16,6 @@ $$
 1 - \sum_{i=1}^{c} p_i^2
 $$
 
-
-
 A pure node has a Gini index of 0. It is computationally faster than Entropy because it avoids logarithmic calculations. 
 
 
