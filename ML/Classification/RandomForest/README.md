@@ -31,7 +31,7 @@ The repository consists of:
 
     [Git Path: Insights into Water Quality: An In-depth Examination using Random Forest Classification](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/RandomForest/DecisionTree_SandipanRoy_1_20260309.ipynb)
 
-- **Data:** This section comprises of only 1 part:
+- **Data:** This section comprises of 2 parts:
 
     - **raw:** consists of the input data or our entire dataset which we have used to train, validate and test our model.
 
