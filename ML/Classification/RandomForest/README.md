@@ -35,4 +35,5 @@ The repository consists of:
 
     - **raw:** consists of the input data or our entire dataset which we have used to train, validate and test our model.
 
-        - [Git Path: Training Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/RandomForest/data/raw/water-quality-1.csv)
+        - [Git Path: Training Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/RandomForest/data/raw/waterQuality1.csv)
+        - [Git Path: Model .pkl file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/RandomForest/data/output/random_forest_model.pkl)

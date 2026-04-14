@@ -24,7 +24,7 @@ The purpose of this is to create a concise workbook covering advanced skills in 
 The repository consists of:
 
 - **Decision Tree on excel:** Decision Tree Classification implementation over an excel file.
-[Git Path: Excel](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/DecissionTree/DTree.xlsx)
+[Git Path: Excel](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/DecissionTree/DTree.xlsx)
 
 - **Decision Tree Classification:** Classification analysis to predict the likelihood of heart disease using structured clinical data. The main objectives of this project are:
 
@@ -34,16 +34,16 @@ The repository consists of:
     - To evaluate the performance of the models using appropriate evaluation metrics.
     - To build a reliable predictive system that can assist in early detection of heart disease.
 
-    [Git Path: Heart Attack Analysis & Prediction using Decision Tree Classification](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/DecissionTree/DecisionTree_SandipanRoy_1_20260309.ipynb)
+    [Git Path: Heart Attack Analysis & Prediction using Decision Tree Classification](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/DecissionTree/DecisionTree_SandipanRoy_1_20260309.ipynb)
 
 - **Data:** This section comprises of 2 parts:
 
     - **raw:** consists of the input data or our entire dataset which we have used to train, validate and test our model.
 
-        - [Git Path: Training Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/DecissionTree/data/raw/heart_disease_train.csv)
-        - [Git Path: Test Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/DecissionTree/data/raw/heart_disease_test.csv)
+        - [Git Path: Training Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/DecissionTree/data/raw/heart_disease_train.csv)
+        - [Git Path: Test Dataset](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/DecissionTree/data/raw/heart_disease_test.csv)
 
     - **output:** consists of those data, predicted data/outcome and/or model.pkl files which we have generated during the entire journey for each projects.
 
-        - [Git Path: Predicted Data](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/DecissionTree/data/output/heart_disease/heart_disease_predictions.csv)
-        - [Git Path: Model .pkl file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/DecissionTree/data/output/heart_disease/decision_tree_model.pkl)
+        - [Git Path: Predicted Data](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/DecissionTree/data/output/heart_disease/heart_disease_predictions.csv)
+        - [Git Path: Model .pkl file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Classification/DecissionTree/data/output/heart_disease/decision_tree_model.pkl)
