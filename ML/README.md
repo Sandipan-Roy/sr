@@ -15,3 +15,5 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that develops 
 
 - **Regression:** Regression analysis is a statistical technique that models the relationship between a dependent variable (target) and one or more independent variables (predictors) to predict continuous numerical outcomes.
 [Git Path: REGRESSION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/README.md)
+- **Classification:** Classification in machine learning is a supervised learning approach that sorts data into predefined categories or classes based on input features.
+[Git Path: CLASSIFICATION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/README.md)
