@@ -1,4 +1,4 @@
-# REGRESSION
+# CLASSIFICATION
 Classification in machine learning is a supervised learning approach that sorts data into predefined categories or classes based on input features. It predicts discrete labels (e.g., Yes/No, Spam/Not Spam) rather than continuous values, training on labeled data to map inputs to specific categories.
 
 ## Key Aspects of Classification Analysis:
@@ -29,4 +29,4 @@ This repository has been divided into multiple sections:
 - **Random Forest Classifier:**
 [Git Path: RANDOM FOREST](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/RandomForest/README.md)
 - **Boosting Classifier:**
-[Git Path: BOOSTING ALGORITHMS](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/Boosting/README.md)
+[Git Path: BOOSTING ALGORITHMS](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Classification/Boosting/README.md)
