@@ -23,10 +23,10 @@ Classification in machine learning is a supervised learning approach that sorts 
 This repository has been divided into multiple sections:
 
 - **Logistic Regression:**
-[Git Path: LOGISTIC REGRESSION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/Logistic_Regression/README.md)
+[Git Path: LOGISTIC REGRESSION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Classification/Logistic_Regression/README.md)
 - **Decision Tree Classifier:**
-[Git Path: DECISION TREE](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/DecisionTree/README.md)
+[Git Path: DECISION TREE](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Classification/DecissionTree/README.md)
 - **Random Forest Classifier:**
-[Git Path: RANDOM FOREST](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/RandomForest/README.md)
+[Git Path: RANDOM FOREST](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Classification/RandomForest/README.md)
 - **Boosting Classifier:**
 [Git Path: BOOSTING ALGORITHMS](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Classification/Boosting/README.md)

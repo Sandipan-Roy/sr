@@ -28,4 +28,4 @@ Regression analysis is a statistical technique that models the relationship betw
 This repository has been divided into two sections:
 
 - **Linear Regression:**
-[Git Path: LINEAR REGRESSION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Regression/Linear_Regression/README.md)
+[Git Path: LINEAR REGRESSION](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Supervised/Regression/Linear_Regression/README.md)
