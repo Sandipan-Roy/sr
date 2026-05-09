@@ -28,3 +28,5 @@ This repository has been divided into multiple sections:
 [Git Path: DECISION TREE](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/DecisionTree/README.md)
 - **Random Forest Classifier:**
 [Git Path: RANDOM FOREST](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/RandomForest/README.md)
+- **Boosting Classifier:**
+[Git Path: BOOSTING ALGORITHMS](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Classification/Boosting/README.md)
