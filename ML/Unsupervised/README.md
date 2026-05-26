@@ -21,3 +21,8 @@ Unsupervised learning is a type of machine learning that analyzes and clusters u
 - Feature Engineering: Identifying relevant features for further analysis.
 - Data Compression: Reducing data size while keeping important information.
 
+
+This repository has been divided into multiple sections:
+
+- **KMeans:**
+[Git Path: KMEANS CLUSTERING](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/K-Means/README.md)
