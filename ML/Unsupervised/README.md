@@ -26,3 +26,6 @@ This repository has been divided into multiple sections:
 
 - **KMeans:**
 [Git Path: KMEANS CLUSTERING](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/K-Means/README.md)
+
+- **Hierarchical:**
+[Git Path: Hierarchical CLUSTERING](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/Hierarchical/README.md)
