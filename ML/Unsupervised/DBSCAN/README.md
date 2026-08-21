@@ -5,16 +5,16 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is an unsup
 
 The algorithm relies on two primary parameters that you define before training:
 
-    - **Epsilon (ε, eps):** The maximum radius used to define the neighborhood around a data point.
-    - **MinPts (min_samples):** The minimum number of data points required to fall within the ε radius for a region to be considered "dense".
+- **Epsilon (ε, eps):** The maximum radius used to define the neighborhood around a data point.
+- **MinPts (min_samples):** The minimum number of data points required to fall within the ε radius for a region to be considered "dense".
 
 ## How the Points are Categorized
 
 Based on the two parameters, DBSCAN classifies every data point into one of three categories:
 
-    - **Core Point:** A point that has at least the specified MinPts within its ε radius.
-    - **Border Point:** A point that is not a core point itself (does not have enough neighbors), but falls within the ε radius of a core point.
-    - **Noise (Outlier):** Any point that is neither a core nor a border point.
+- **Core Point:** A point that has at least the specified MinPts within its ε radius.
+- **Border Point:** A point that is not a core point itself (does not have enough neighbors), but falls within the ε radius of a core point.
+- **Noise (Outlier):** Any point that is neither a core nor a border point.
 
 ## How the Algorithm Works
 
@@ -57,7 +57,7 @@ The repository consists of:
     - To evaluate the performance of the models using Silhouette Score.
     - To build a reliable clustering system that can assist the East West Airlines to track ROI by segment and adjust strategies.
 
-    [Git Path: Customer Personality Analysis : An In-depth Analysis of company's ideal customers using DBSCAN Clustering](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/DBSCAN/DBSCAN_SandipanRoy_1_20260511.ipynb)
+    [Git Path: Customer Personality Analysis : An In-depth Analysis of company's ideal customers using DBSCAN Clustering](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/DBSCAN/DBSCAN_SandipanRoy_20260511.ipynb)
 
 - **Data:** This section comprises of 2 parts:
 
@@ -68,4 +68,4 @@ The repository consists of:
     - **output:** consists of the our customed model and the dataset along with Customer Clusters for this particular use case.
 
         - [Git Path: Model .pkl file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Unsupervised/DBSCAN/data/output/DBSCAN_model.pkl)
-        - [Git Path: Output file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Unsupervised/DBSCAN/data/output/CustomerClusters.csv)
+        - [Git Path: Output file](https://raw.githubusercontent.com/Sandipan-Roy/sr/refs/heads/Dev/ML/Unsupervised/DBSCAN/data/output/Customer_Personality_Analysis.csv)
