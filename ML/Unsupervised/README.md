@@ -29,3 +29,6 @@ This repository has been divided into multiple sections:
 
 - **Hierarchical:**
 [Git Path: Hierarchical CLUSTERING](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/Hierarchical/README.md)
+
+- **DBSCAN:**
+[Git Path: DBSCAN CLUSTERING](https://github.com/Sandipan-Roy/sr/blob/Dev/ML/Unsupervised/DBSCAN/README.md)
